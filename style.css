@@ -298,3 +298,44 @@ img.imgsec-2 {
     top: 2222px;
     width: 233px;
 }
+.online {
+    display: flex;
+    margin-top: 147px;
+}
+.online-section {
+    width: 302px;
+    margin-top: 194px;
+    margin-left: 186px;
+}
+.online-section h1 {
+    color: #0B0223;
+    font-size: 35px;
+    font-family: Work Sans;
+    font-weight: 700;
+    line-height: 49px;
+    word-wrap: break-word;
+}
+span {
+    color: #F948B2;
+}
+.online-section p {
+    color: #534C64;
+    font-size: 13px;
+    font-family: Work Sans;
+    font-weight: 400;
+    line-height: 26px;
+    word-wrap: break-word;
+    margin-top: 19px;
+}
+.onlineimg-1 {
+    width: 600px;
+    margin-left: 128px;
+    position: relative;
+}
+.onlineimg-2 {
+    position: absolute;
+    margin-top: 348px;
+    right: 469px;
+    width: 286px;
+    height: 300px;
+}
