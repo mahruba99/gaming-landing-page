@@ -339,3 +339,56 @@ span {
     width: 286px;
     height: 300px;
 }
+.careers-section {
+    width: 100%;
+    background: linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%);
+    margin-top: 182px;
+    display: flex;
+    padding-bottom: 102px;
+}
+.about-career {
+    margin-left: 129px;
+    margin-top: 147px;
+    color: white;
+}
+.about-career h1 {
+    color: white;
+    font-size: 48px;
+    font-family: Work Sans;
+    font-weight: 700;
+    line-height: 60px;
+    word-wrap: break-word
+
+}
+.about-career p {
+    color: white;
+    font-size: 15px;
+    font-weight: 200;
+    line-height: 27px;
+    word-wrap: break-word;
+    margin-top: 20px;
+}
+.career-img{
+    background-image: url(image/Vector\ 2\ \(1\).png);
+}
+img.car-img {
+    margin-top: 174px;
+    width: 508px;
+    padding-left: 92px;
+    padding-right: 141px;
+}
+.career-type{
+    display: flex;
+}
+.para-1{
+    color: white;
+    font-size: 20px;
+    font-family: Work Sans;
+    font-weight: 600;
+    line-height: 40px;
+    word-wrap: break-word
+}
+p.para-2 {
+    margin-left: 104px;
+    text-align: right;
+}
