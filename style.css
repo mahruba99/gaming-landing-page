@@ -392,3 +392,27 @@ p.para-2 {
     margin-left: 104px;
     text-align: right;
 }
+.various-games {
+    margin-top: 122px;
+    margin-left: 131px;
+}
+.games-type {
+    display: flex;
+}
+.games-1 {
+    display: flex;
+}
+.games-1 {
+    display: flex;
+    width: 187px;
+    padding: 12px 7px;
+    margin-left: 18px;
+    border-radius: 58px;
+}
+.games-1 p {
+    margin-top: 14px;
+    margin-left: 12px;
+}
+.games-1 img {
+    width: 46px;
+}
