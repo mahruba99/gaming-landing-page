@@ -416,3 +416,58 @@ p.para-2 {
 .games-1 img {
     width: 46px;
 }
+.games-type2 {
+    display: flex;
+    margin-left: 84px;
+    margin-top: 22px;
+}
+.footer {
+    width: 100%;
+    background-color: #0B0223;
+    color: white;
+    text-align: center;
+    margin-top: 54px;
+}
+.sec-1 {
+    padding-top: 78px;
+    margin-bottom: 30px;
+    margin-left: 85px;
+}
+.sec-2 ul {
+    margin-left: 246px;
+    display: flex;
+    margin-bottom: 37px;
+}
+.sec-2 ul li {
+    display: inline-block;
+    margin-left: 25px;
+    font-size: 20px;
+    padding: 20px;
+}
+.sec-3 {
+    
+    margin-top: 20px
+}
+.sec-3 i {
+    padding: 15px;
+    font-size: 26px;
+}
+.sec-4 ul {
+    display: flex;
+    margin-left: 394px;
+}
+.sec-4 ul li {
+    display: inline-block;
+    margin-left: 28px;
+    font-size: 17px;
+    font-weight: 100;
+    color: rgba(255, 255, 255, 0.60)
+}
+.sec-5 p {
+    color: rgba(255, 255, 255, 0.60);
+    font-size: 16px;
+    font-family: Work Sans;
+    font-weight: 500;
+    word-wrap: break-word;
+    padding: 30px;
+}
