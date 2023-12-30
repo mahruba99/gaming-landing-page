@@ -430,8 +430,15 @@ p.para-2 {
     width: 187px;
     padding: 3px 14px;
     margin-left: 18px;
+    transition: 1s;
+    
+    
+    cursor: pointer;
+}
+.games-3:hover{
+    
+    border: 1px solid #F948B2;
     border-radius: 58px;
-    border: 2px solid #F948B2;
 }
 .games-3 p {
     color: #F948B2;
@@ -513,5 +520,10 @@ p.para-2 {
     .nav{
         flex-direction: column;
     }
-
+    .nav-logo {
+        align-items: center;
+    }
+    .row{
+        flex-direction: column;
+    }
 }
