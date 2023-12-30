@@ -425,6 +425,19 @@ p.para-2 {
     margin-left: 84px;
     margin-top: 22px;
 }
+.games-3 {
+    display: flex;
+    width: 187px;
+    padding: 3px 14px;
+    margin-left: 18px;
+    border-radius: 58px;
+    border: 2px solid #F948B2;
+}
+.games-3 p {
+    color: #F948B2;
+    margin-top: 18px;
+    margin-left: 10px;
+}
 .footer {
     width: 100%;
     background-color: #0B0223;
@@ -474,4 +487,31 @@ p.para-2 {
     font-weight: 500;
     word-wrap: break-word;
     padding: 30px;
+}
+.career-button {
+    color: #FF42A5;
+    font-size: 15px;
+    font-family: Work Sans;
+    font-weight: 600;
+    text-transform: uppercase;
+    word-wrap: break-word;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 17px;
+    padding-bottom: 21px;
+    background: white;
+    border-radius: 48px;
+    margin-top: 27px;
+    border: 0;
+}
+/* respomsive */
+
+@media screen and (max-width: 576px){
+    .navbar{
+        flex-direction: column;
+    }
+    .nav{
+        flex-direction: column;
+    }
+
 }
