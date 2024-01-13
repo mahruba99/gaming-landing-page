@@ -247,9 +247,12 @@ img.img-3 {
     margin-right: 11px;
 }
 .video-collection {
+ 
+    padding-top: 48px;
     display: flex;
-    margin-left: 143px;
-    margin-right: 150px;
+    justify-content: space-evenly;
+    align-items: center;
+    
 }
 .collection img {
     width: 97%;
@@ -304,15 +307,10 @@ img.collection-img {
 }
 img.imgsec-1 {
     width: 500px;
-    position: relative;
+
 }
 
-img.imgsec-2 {
-    position: absolute;
-    left: 644px;
-    top: 2222px;
-    width: 233px;
-}
+
 .online {
     display: flex;
     margin-top: 147px;
@@ -480,6 +478,8 @@ p.para-2 {
     padding: 20px;
 }
 .sec-3 {
+
+    display: flex;
     
     margin-top: 20px
 }
@@ -554,5 +554,122 @@ img.img-1 {
      margin-left: -169px;
      width: 100%;
      margin-top: 50px;
+}
+.img-combo {
+    display: flex;
+    margin-left: -389px;
+}
+.gamer-section {
+    flex-direction: column;
+}
+.game-img img {
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+}
+.game-description {
+    margin-top: 32px;
+    text-align: center;
+    margin-right: -92px;
+}
+.game-description p {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 31px;
+    padding: 6px;
+    
+}
+.heading {
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 93px;
+    padding: 21px;
+}
+.heading p{
+    font-size: 12px;
+    line-height: 41px;
+    
+}
+.video-collection {
+    flex-direction: column;
+    margin-left: 116px;
+    padding: 17px;
+}
+.collection p {
+    margin: 0 auto;
+    padding: 8px;
+    margin-top: 20px;
+    margin-bottom: 22px;
+}
+.download-section {
+    flex-direction: column;
+    margin-top: -100px;
+    margin-left: -97px;
+}
+.download-head {
+    text-align: center;
+}
+.download-head p {
+    font-size: 15px;
+}
+img.imgsec-1 {
+    margin-left: 172px;
+}
+.online {
+    flex-direction: column;
+}
+.online-section {
+    text-align: center;
+    margin-top: 55px;
+}
+.careers-section {
+    flex-direction: column;
+    width: 1100px;
+    padding: 32px;
+}
+.career-type .para-2 {
+    margin-right: 162px;
+}
+.about-career p {
+    width: 838px;
+    font-size: 23px;
+}
+img.car-img {
+    margin-left: 132px;
+    margin-bottom: 124px;
+    width: 899px;
+}
+.games-type {
+    flex-direction: column;
+    margin-left: 240px;
+}
+.games-type2 {
+    flex-direction: column;
+    margin-left: 247px;
+}
+.footer {
+    width: 1062px;
+}
+.sec-1 {
+    padding-top: 78px;
+    margin-bottom: 30px;
+    margin-left: -139px;
+}
+.sec-2 ul {
+    margin-left: -149px;
+    flex-direction: column;
+    margin-bottom: 37px;
+    line-height: 0px;
+}
+.sec-3 {
+    flex-direction: column;
+    margin-right: 122px;
+}
+.sec-4 ul {
+    flex-direction: column;
+    margin-left: -158px;
+}
+.sec-5 p {
+    margin-right: 88px;
 }
 }
